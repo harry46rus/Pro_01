@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/.idea/
+/.idea/.name
+/.name
+/.gitignore
+/MY_PROJECT.iml
+/inspectionProfiles/profiles_settings.xml /misc.xml
+/modules.xml
+/vcs.xml
+.idea *
